@@ -1,4 +1,5 @@
 <?php
+echo '<p>Coming Soon... The new home for Trafixs!</p>';
 /*
 |---------------------------------------------------------------
 | PHP ERROR REPORTING LEVEL
